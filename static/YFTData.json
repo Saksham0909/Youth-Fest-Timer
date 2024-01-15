@@ -1,0 +1,546 @@
+{
+    "yftTitle": "8th Inter Zonal Youth Festival, 2023",
+    "eventCategories": ["Music", "Dance", "Literary", "Theatre", "Fine Art"],
+
+    "events": {
+        "music": [{
+                "name": "Classical Inst. (Percussion)",
+                "minTime": "08",
+                "maxTime": "10",
+                "teams": ["YF-1", "YF-2"],
+                "rules": [
+                    "Entry Per Institution :01 &nbsp;&nbsp;No. of Participants: 01",
+                    "Time Duration: Minimum time: 08 minutes &nbsp;&nbsp;Maximum Time: 10 minutes",
+                    "Time for Stage/Instruments Setting : Up to 5 minutes",
+                    "Maximum number of accompanists is 02",
+                    "Item can be presented in either Hindustani or Carnatic style",
+                    "Judgment will be based on qualities like Taal, selection of Raag, Composition and general impression, etc"
+                ]
+            },
+            {
+                "name": "Classical Inst. (Non-Per)",
+                "minTime": "08",
+                "maxTime": "10",
+                "teams": ["YF-1", "YF-2"],
+                "rules": [
+                    "Entry Per Institution : 01                         No. of Participants: 01",
+                    "Time Duration: Minimum time: 08 minutes            Maximum Time: 10 minutes",
+                    "Time for Stage/Instruments Setting : Upto 5 minutes",
+                    "Maximum number of accompanists is 02",
+                    "Item can be presented in either Hindustani or Carnatic style",
+                    "Use of Casio is not allowed. Instruments of western origin adapted to the Indian Ragasystem are allowed",
+                    "Judgement will be based on the qualities like Swar, Taal, selection of Raag, composition and general impression, etc"
+                ]
+            },
+            {
+                "name": "Classical Vocal (Solo)",
+                "minTime": "08",
+                "maxTime": "10",
+                "teams": ["YF-1"],
+                "rules": [
+                    "Entry Per Institution : 01                         No. of Participants: 01",
+                    "Time Duration: Minimum time: 08 minutes            Maximum Time: 10 minutes",
+                    "Time for Stage/Instruments Setting : Upto 5 minutes",
+                    "Maximum number of accompanists is 02",
+                    "Item can be presented in either Hindustani or Carnatic style",
+                    "Film/Cinema/Recorded Songs are not allowed",
+                    "Sufficient thought & care must be exercised in the choice of raga and composition",
+                    "Judgement will be based on the qualities of singing like Voice, Swar, Taal, selection of raag, composition and general impression, etc"
+                ]
+            },
+            {
+                "name": "Light Vocal Indian",
+                "minTime": "04",
+                "maxTime": "06",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6", "YF-7"],
+                "rules": [
+                    "Entry Per Institution : 01                         No. of Participants: 01",
+                    "Time Duration: Minimum time: 04 minutes            Maximum Time: 06 minutes",
+                    "Time for Stage/Instruments Setting : Up to 2 minutes",
+                    "Maximum number of accompanists is 02",
+                    "Only non-filmy/non-recorded songs/geet/gazal/abhangas can be presented",
+                    "Use of Harmonium/Dholak/Tabla is allowed",
+                    "Judgement will be based on the qualities of singing like Voice, Swar, Taal, Composition and general impression, etc"
+                ]
+            },
+            {
+                "name": "Folk Song (Punjabi)",
+                "minTime": "04",
+                "maxTime": "06",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6", "YF-7", "YF-8", "YF-9", "YF-10"],
+                "rules": [
+                    "Entry Per Institution : 01                         No. of Participants: 01",
+                    "Time Duration: Minimum time: 04 minutes            Maximum Time: 06 minutes",
+                    "Time for Stage/Instruments Setting : Up to 03 minutes",
+                    "Maximum number of accompanists is 02",
+                    "Categories for participation are: Punjabi Folk Song",
+                    "Only Non-filmy songs should be presented",
+                    "Pre-Recorded Music will not be allowed",
+                    "Use of Tabla and keyboard is not allowed",
+                    "Judgement shall be based on the qualities of singing like Voice, Swar, Taal, Compositionand and general impression, etc"
+                ]
+            },
+            {
+                "name": "Group Song Indian",
+                "minTime": "08",
+                "maxTime": "10",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5"],
+                "rules": ["Entry Per Institution : 01                       No. of Participants: Up to 06",
+                    "Time Duration: Minimum time: 08 minutes                Maximum Time: 10 minutes.",
+                    "Time for Stage/Instruments Setting : Up to 4 minutes",
+                    "Maximum number of accompanists is 03.",
+                    "The professional accompanists shall sit/stand separately from the participants and shall not lead the performance and they should <br>be in different dress from the participants.",
+                    "A team has to present two songs- one Patriotic song and another will be a Folk song.",
+                    "The group songs should be taken from Indian songs which can be in regional language. No film/recorded song should be spresented as group song.",
+                    "Judgement of item will be on the basis of qualities of Singing, like Swar and Taal, but not on make-up, costumes and actions of the team."
+                ]
+            },
+            {
+                "name": "Group Shabad/Bhajan",
+                "minTime": "06",
+                "maxTime": "08",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4"],
+                "rules": ["Entry Per Institution : 01                   No. of Participants: Up to 06",
+                    "Time Duration: Minimum Time: 6 Minutes             Maximum Time: 08 minutes",
+                    "Time for Stage/Instruments Setting : Up to 4 minutes",
+                    "Maximum number of accompanists is 03",
+                    "The professional accompanists shall sit/stand separately from the participants and shall not lead the performance, they should <br> be in different dress from the participants.",
+                    "Only non-filmy Indian language Bhajan/Shabad can be presented.",
+                    "Judging of item will be on the basis of qualities of Singing like, Swar, Taal, and selection of Raag & composition but not on make-up, costumes and actions of the team."
+                ]
+            },
+            {
+                "name": "Western Vocal Solo",
+                "minTime": "04",
+                "maxTime": "06",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6", "YF-7"],
+                "rules": ["Enter per Institution :01            No. of Participants: 01",
+                    "Time Duration : Minimum Time : 04 Minutes                  Maximum Time: 06 Minutes",
+                    "Time for Stage/Instruments Setting : up to 2 Minutes",
+                    "Maximum number of accompanists is 02",
+                    "The Professional accompanists shall sit/ stand separately from the participants and shall not lead the performance & they should<br>be in different dress from the particpants.",
+                    "Language of the songs: shall be English",
+                    "Judgement shall be on the basis of qualities of Singing, Composition, Rhythm Coordination and general impression."
+                ]
+            },
+            {
+                "name": "Western Group Song",
+                "minTime": "08",
+                "maxTime": "10",
+                "teams": ["YF-1", "YF-2"],
+                "rules": ["Entry Per Institution : 01                     No. of participants: Up to 06",
+                    "Time Durations: Minimum Time: 08 Minutes              Maximum Time :10 Minutes",
+                    "Time for Stage/Instruments Setting : Up to 5 minutes",
+                    "Maximum number of accompanists is 02",
+                    "The Professional accompanists shall sit/ stand separately from the participants and shall not lead the performance & they should be in different dress from the particpants.",
+                    "Judgement shall be on the basis of qualities of Singing only, and not on make-up,costumes and action of the team.",
+                    "No Weightage will be given to any dance during the performance."
+                ]
+            },
+            {
+                "name": "Vaar Singing",
+                "minTime": "05",
+                "maxTime": "07",
+                "teams": ["YF-1", "YF-2", "YF-3"],
+                "rules": ["Entry Per Institution : 01                    No. of Participants : 02",
+                    "Time Duration : Minimum Time : 05 Minutes            Maximum Time : 07 Minutes",
+                    "Time for Stage/Instruments Setting : Up to 3 Minutes.",
+                    "Maximum number of accompanists is 02.",
+                    "The Professional Accompanists shall sit/stand separately from the participants and shall not lead the performance, they should<br> be in different dress from the participants.",
+                    "A student can play instrument in place of professional accompanist but the total number of participants shall be 04(Four).",
+                    "A Vaar will be only in Traditional Verse Forms. Only heroic deeds of prominent patriotic personalities of Indian History should of Vaar Singing.",
+                    "Only Traditional Folk Instruments of Punjab are allowed.",
+                    "Judgement shall be based on the quality of singing, coordination and the general impression."
+                ]
+            },
+            {
+                "name": "Folk Instrument (Solo)",
+                "minTime": "06",
+                "maxTime": "08",
+                "teams": ["YF-1", "YF-2"],
+                "rules": ["Entry Per Institution : 01                    No. of Participants : 01",
+                    "Time Duration : Minimum Time : 06 Minutes            Maximum Time : 08 Minutes",
+                    "Time for Stage/Instruments Setting : Up to 3 Minutes.",
+                    "Maximum number of accompanists is 01.",
+                    "The Professional Accompanist shall sit/stand separately from the participants and shall not lead the performance, he/she should<br>be in different dress from the participant.",
+                    "Participant may present preferably those folk tunes, which are recognized as folk tunes of the Punjab.",
+                    "Folk Instrument allowed will be Algozas, Been, Bansuri, Wanjhali, Sarangi, Dotara, King, Toombi, Toomba, Sankh, Dhol, Dholak (Dholaki), <br>Duffli, Duff, Ghara, Bughchu, Dhad, Nagara, Hamel, Kato, Sapp, Dauru, Chimta, Khanjri, Manjeera, and Ghungroo,<br>No other instrument/article will be allowed."
+                ]
+            },
+            {
+                "name": "Folk Orchestra",
+                "minTime": "08",
+                "maxTime": "10",
+                "teams": ["YF-1", "YF-2", "YF-3"],
+                "rules": ["Entry Per Institution : 01                    No. of Participants : 06-09",
+                    "Time Duration : Minimum Time : 08 Minutes            Maximum Time : 10 Minutes",
+                    "Time for Stage/Instruments Setting : Up to 3 Minutes.",
+                    "Maximum number of accompanists is 03.",
+                    "The Professional Accompanists shall sit/stand separately from the participants and shall not lead the performance, they should<br> be in different dress from the participants.",
+                    "The team may present preferably those folk tunes, which are recognized as folk tunes of the Punjab.",
+                    "Folk Instruments allowed will be Algozas, Been, Bansuri, Wanjhali, Sarangi, Dotara, King, Toombi, Toomba, Sankh, Dhol, Dholak (Dholaki),<br>Duffli, Duff, Ghara, Bughchu, Dhad, Nagara, Hamel, Kato, Sapp, Dauru, Chimta, Khanjri, Manjeera, and Ghungroo,<br>No other instrument/article will be allowed.",
+                    "Judgment shall be based on the quality of singing, coordination and the general impression."
+                ]
+            }
+        ],
+        "dance": [{
+                "name": "Bhangra (Boys)",
+                "minTime": "08",
+                "maxTime": "10",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6"],
+                "rules": ["Entery Per Institution : 01               No.of Participants : Up to 10",
+                    "Time Duration : Minimum Time: 08 Minutes         Maximum Time: 10 Minutes",
+                    "Time for stage/Instruments setting : Up to 5 Minutes.",
+                    "Maximun number of professional accompanists is 05",
+                    "The professional Accompanists shall sit/stand separately from the participants and shall not lead the performance. They should<br>be in different dress from the participants.",
+                    "The time of the performance will be counted with effect from the first beat of the Dhol.",
+                    "Acrobatic actions are not allowed. Double/Triple standing is allowed",
+                    "Both Sides(Purreh) of Dhol should be of leather sheet.",
+                    "The Participating team will be responsible for removal of their props. and other accessories etc. immediately after the completion of their performance.",
+                    "Judgement will be based on the rhythm, formations, expressions, costumes, makeup and overall effects."
+                ]
+            },
+            {
+                "name": "Giddha",
+                "minTime": "08",
+                "maxTime": "10",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4"],
+                "rules": ["Entry Per Institution : 01                      No. of Participants: Up to 11",
+                    "Time Duration : Minimum Time : 08 Minutes              Maximum Time : 10 Minutes",
+                    "Time for Stage/Instruments Setting : Up to 5 Minutes.",
+                    "Maximum number of Professional Accompanists is one for Giddha.",
+                    "Time will be counted w.e.f. the First Beat of the Dholak or the moment, participants start singing whichever is earlier.",
+                    "Singing of bolies shall be by student participants only in Giddha.",
+                    "Indecent or Obscene Bolies are not allowed",
+                    "Only Plastic/Metal bangles are allowed.",
+                    "The participating team will be responsible for removal of their props. and other accessories etc. immediately after the completion of their <br>performance.",
+                    "Judgement will be based on the variety of actions, their coherence with rhythm, Symmetry, Costumes, makeup composition of Performance, <br>General impressions like grace and expressions."
+                ]
+            },
+            {
+                "name": "Group Dance (Regional)",
+                "minTime": "08",
+                "maxTime": "10",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6", "YF-7", "YF-8"],
+                "rules": ["Entry Per Institution : 01                             No. of Participants: 10",
+                    "Time Duration: Minimum Time : 8 Minutes                       Maximum Time: 10 Minutes",
+                    "Time for Stage/Instruments Setting: Up to 5 Minutes",
+                    "Maximum Number of Accompanist is 05.",
+                    "The Team may Consist of all boys, all girls or both",
+                    "The Dance can be either primitive or folk dance(Indian Style) but not a classical one.",
+                    "The participating team will be responsible for removal of their sets/ properties etc. immediately after the completion of their performance.",
+                    "Judgement will be based on the basis of Rhythm, Formation, Costumes, Make-up,sets on overall effect."
+                ]
+            },
+            {
+                "name": "Classical Dance",
+                "minTime": "12",
+                "maxTime": "15",
+                "teams": ["YF-1", "YF-2", "YF-3"],
+                "rules": ["Entry Per Institution : 01                             No. of Participants: 01",
+                    "Time Duration: Minimum Time : 12 Minutes                      Maximum Time: 15 Minutes",
+                    "Time for Stage/Instruments Setting: Up to 5 Minutes",
+                    "Maximum Number of Accompanist is 03.",
+                    "The Classical Dance can be from any of the approvedd schools of Indian dances such as Kathak, Kathakali, Bharat-Natyam, Manipuri, Kuchipudi, Mohinattam and Odissi etc.",
+                    "Judgement will be based on the qualities like Taal, Rhythm, Expression, Costumes, Innovation, Footwork and General Impression etc.",
+                    "Dance on recoded cassette is not allowed."
+                ]
+            },
+            {
+                "name": "Hindi Solo Dance (Girls)",
+                "minTime": "03",
+                "maxTime": "05",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6", "YF-7", "YF-8", "YF-9"],
+                "rules": ["Entry Per Institution : 01                             No. of Participants: 01",
+                    "Time Duration: Minimum Time : 3 Minutes                       Maximum Time: 5 Minutes",
+                    "Time for Stage/Instruments Setting: Up to 2 Minutes",
+                    "participants can perform dance on Hindi/Bollywood song only.",
+                    "Participants must bring the CD/DVD or Pen Drive of their song.",
+                    "CD/DVD or Pen Drive have to be submittd to the venue incharge one hour prior of the event."
+                ]
+            },
+            {
+                "name": "Duet Dance (One Girl and One Boy)",
+                "minTime": "04",
+                "maxTime": "06",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4" , "YF-5", "YF-6", "YF-7", "YF-8", "YF-9"],
+                "rules": ["Entry Per Institution : 01                             No. of Participants: 02",
+                    "Time Duration: Minimum Time : 4 Minutes                       Maximum Time: 6 Minutes",
+                    "Time for Stage/Instruments Setting: Up to 2 Minutes",
+                    "Participants can perform dance on Hindi/Bollywood song only and not on Classical Music.",
+                    "Participants must bring the CD/DVD or Pen Drive of their song.",
+                    "CD/DVD or Pen Drive have to be submittd to the venue incharge one hour prior of the event."
+                ]
+            }
+        ],
+        "literary": [{
+                "name": "Elocution",
+                "minTime": "04",
+                "maxTime": "05",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6", "YF-7", "YF-8", "YF-9", "YF-10"],
+                "rules": ["Entry Per Institution : 01                             No. of Participants: 01",
+                    "Time Duration: Minimum Time : 4 Minutes                       Maximum Time: 5 Minutes",
+                    "Language: English, Punjabi, Hindi(only one language should be followed).",
+                    "The Subject/Topic for the Elocution will be announced 24 hours prior to the competition.",
+                    "Paper reading is not allowed.",
+                    "The Item shall be prose or poetry and not song",
+                    "Theme: <span#sstyle='font-family:cursive;'>Meri Mitti Mera Desh</span>"
+                ]
+            },
+            {
+                "name": "Debate",
+                "minTime": "04",
+                "maxTime": "05",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6", "YF-7", "YF-8", "YF-9", "YF-10", "YF-11"],
+                "rules": ["Entry Per Institution : 01                             No. of Participants: 02",
+                    "Time Duration: Minimum Time : 4 Minutes(For Each Participant)",
+                    "Maximum Time: 5 Minutes(For Each participant",
+                    "Language: English, Punjabi, Hindi(The Team will follow one language).",
+                    "Each Institution will be represented by two debaters, one will speak FOR, while another will speak AGAINST the Motion.",
+                    "The Subject/topic for the debate will be announced 24 hours prior to the competition.",
+                    "Paper Reading is not allowed."
+                ],
+                "participants": true
+            },
+            {
+                "name": "Quiz",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6", "YF-7", "YF-8", "YF-9", "YF-10", "YF-11","YF-12"],
+                "rules": ["Entry Per Institution : 01                                   No.of participants: 03",
+                    "There will be a wrritten preliminary round and 4 top position holder teams will be selected for the final rond. The number of teams can be more than 4 if there is a tie.",
+                    "Final round will be oral with audio visual questions.",
+                    "The specific rules regarding evaluation procedure, time to reply a particular answer and the type of a round will be given before the actual start of competition by the quiz master.",
+                    "The decision fo the Quiz Master will be Final.",
+                    "One round of quiz shall be based on theme of the Youth Festival :  <span#sstyle='font-family:cursive;'>Meri Mitti Mera Desh</span>"
+                ]
+            },
+            {
+                "name": "Poem Recitation",
+                "minTime": "04",
+                "maxTime": "05",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6", "YF-7", "YF-8"],
+                "rules": ["Entry Per Institution : 01                             No. of Participants: 01",
+                    "Time Duration: Minimum Time : 4 Minutes                       Maximum Time: 5 Minutes",
+                    "Language: English, Punjabi, Hindi(only one language should be followed).",
+                    "The poem should be self-composed and it should be recited as a poem not as a song.",
+                    "Paper reading is not allowed.",
+                    "Theme: <span#sstyle='font-family:cursive;'>Meri Mitti Mera Desh</span>"
+                ]
+            },
+            {
+                "name": "Creative Writing",
+                "maxTime": "120",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6", "YF-7", "YF-8", "YF-9", "YF-10", "YF-11", "YF-12"],
+                "rules": ["Entry Per Institution: 01                              No. of participants: 03",
+                    "Time Duration: Maximum 02 hours",
+                    "Following will be the Categories of Participation.",
+                    "   Poem Writing",
+                    "   Short-story Writing",
+                    "   Essay Writing",
+                    "An Institution can send one participant for each Category.",
+                    "Theme/s for creative writing in each case will be announced on the spot.",
+                    "Language of Participation will be English, Punjabi, and Hindi(only one medium should be followed).",
+                    "Two hours will be given form Composition in each case.",
+                    "The Content of writing should not hurt the personal, religious or national sentiments of any individual or community.",
+                    "Awards will be given category-wise."
+                ]
+            }
+        ],
+        "theatre": [{
+                "name": "Mimicry",
+                "minTime": "04",
+                "maxTime": "05",
+                "teams": ["YF-1", "YF-2", "YF-3"],
+                "rules": ["Entry Per Institution : 01                             No. of Participants: 01",
+                    "Time Duration: Minimum Time : 4 Minutes                Maximum Time: 5 Minutes",
+                    "Language: English, Punjabi, Hindi",
+                    "Participant may Mimic sound of machines and speeches of well-Known persons etc. including film personalities.",
+                    "Judgement will based on Skill imitation, variety of imitated sounds/voices and imitate presentation."
+                ]
+            },
+            {
+                "name": "Skit",
+                "minTime": "08",
+                "maxTime": "10",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5"],
+                "rules": ["Entry Per Institution : 01                             No. of Participants: Up to 06",
+                    "Time Duration: Minimum Time : 8 Minutes                Maximum Time: 10 Minutes",
+                    "Maximum number of accompanists : 03",
+                    "Time for Stage setting: Up to 3 Minutes",
+                    "Language : English, Punjabi, Hindi",
+                    "Use of make-up, drapery, background music is allowed. No personal remarks, aspersions, character assassination etc. is allowed..",
+                    "Vulgarity or bitter insinuations in presentation should be avoided. Only innocent satire or humor is expected,",
+                    "The item will be judged basically on the qualities like theme idea, work on acting, stage craft design & general impression."
+                ]
+            },
+            {
+                "name": "Mime",
+                "minTime": "04",
+                "maxTime": "05",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6"],
+                "rules": ["Entry Per Institution : 01                             No. of Participants: Up to 06",
+                    "Time Duration: Minimum Time : 4 Minutes                Maximum Time: 5 Minutes",
+                    "Maximum number of accompanists : 2",
+                    "Background recorded music is allowed",
+                    "Judgement will be based on the qualities like theme idea, creativity of presentation, use of make-up, music and general impression."
+                ]
+            },
+            {
+                "name": "One Act Play",
+                "minTime": "25",
+                "maxTime": "30",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4"],
+                "rules": ["Entry Per Institution : 01                             No. of Participants: Up to 09",
+                    "Time Duration: Minimum Time : 25 Minutes                Maximum Time: 30 Minutes",
+                    "Maximum number of accompanists : 03",
+                    "Time for Stage setting: Up to 10 Minutes",
+                    "Language : English, Punjabi, Hindi",
+                    "The time will be counted as soon as the curtain goes up or team starts giving introduction which ever is earlier.",
+                    "Empty stage to empty stage rule shall be followed strictly.",
+                    "The participating teams shall bring their own set/stage property, make-up material etc.",
+                    "Lighting will be provided by the host institute and no extra lighting is allowed.",
+                    "The participating team must report to the officials/department at least two hours before the presentation of the play.",
+                    "Accompanists will either speak from the background or will play upon musical intruments for background music.",
+                    "The play can be in prose or verse but it should not be in musical form.",
+                    "Sufficient thought and care should be exercised in the choice of the play which should suit the occasion and taste of the general students <br>audiencee. Play alien to our traditions, Culture and special life should not be depicted.",
+                    "Presentation of play of last year Youth Festival by the same college is not allowed.",
+                    "Judgement will be based on the qualities of the play like theme, work on acting, stage craft, design and general impression etc."
+                ]
+            },
+            {
+                "name": "Traditional Fancy Dress",
+                "minTime": "1",
+                "maxTime": "2",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6", "YF-7", "YF-8", "YF-9", "YF-10", "YF-11", "YF-12"],
+                "rules": ["Entry Per Institution : 02                             No. of Participants: 01 per Entry",
+                    "Time Duration: Minimum Time : 01 Minutes                Maximum Time: 02 Minutes",
+                    "Maximum number of accompanists : 02",
+                    "Fancy Dress can be related to any caste, tribe, state, religion, tradition, work type etc. of Indian culture.",
+                    "Any vulgar demonstration is not allowed.",
+                    "Music, background commentary and speech before the performance of the item is not allowed.",
+                    "Acting, dancing and speech on the part of the participant is allowed but it shall carry no weightage.",
+                    "During the presentation of Traditional Fancy Dress item, only dress of the Indian Culture may be weared.<br>The item/material, if required of India & Indian culture/tribe, caste, region etc. may be used.",
+                    "The judgment shall be based upon costumes, make-up, Hair style, jewelry, Head wear and footwear etc.<br>Theme or idea will not be taken into consideration."]
+            }
+        ],
+        "fineart": [{
+                "name": "On The Spot Painting",
+                "maxTime": "150",
+                "teams": ["YF-1", "YF-2", "YF-4", "YF-5", "YF-8", "YF-9", "YF-11", "YF-14"],
+                "rules": ["Entry Per Institution : 1                         No.of participants: 01",
+                    "Time Duration: Maximum Time: 2 Hours and 30 Minutes.",
+                    "Sheet Size(22\" x 15\")",
+                    "The item will be conducted on the spot on the given topic/subject.",
+                    "Painting can be done in Oil, Water, Poster or Pastel Colours.",
+                    "Participant will bring their own material required like Brushes, Paints etc. Only the paper/sheet will be provided by the host institute.",
+                    "Judgement shall be based on neatness, depiction of subject and overall coomposition."
+                ]
+            },
+            {
+                "name": "Poster Making",
+                "maxTime": "150",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-8", "YF-9", "YF-10", "YF-11", "YF-12", "YF-14"],
+                "rules": ["Entry Per Institution : 1                         No.of participants: 01",
+                    "Time Duration: Maximum Time: 2 Hours and 30 Minutes.",
+                    "Sheet Size(22\" x 15\")",
+                    "Topic/theme will be given on the spot.",
+                    "Use of colours is allowed.",
+                    "Participant will bring their own material required like Brushes, Paints etc. Only the paper/sheet will be provided by the host institute.",
+                    "Theme: <span#sstyle='font-family:cursive;'>Meri Mitti Mera Desh</span>"
+                ]
+            },
+            {
+                "name": "Collage Making",
+                "maxTime": "150",
+                "teams": ["YF-1", "YF-2", "YF-4", "YF-5", "YF-8", "YF-9", "YF-10", "YF-11", "YF-12", "YF-14"],
+                "rules": ["Entry Per Institution : 1                         No.of participants: 01",
+                    "Time Duration: Maximum Time: 2 Hours and 30 Minutes.",
+                    "Sheet Size(22\" x 15\")",
+                    "The item will be conducted on the spot on the given topic/subject.",
+                    "Collage has to be prepared from old Magazines/Newspapers. Use of Scissors is not allowed.",
+                    "Participant will bring their own material required for the contest like Glue, Old Magazines, Other material etc.<br>Only the paper/sheet will be provided by the host Institute.",
+                    "Judgement shall be based on overall composition and depiction of subject."
+                ]
+            },
+            {
+                "name": "Cartooning",
+                "maxTime": "150",
+                "teams": ["YF-1", "YF-2", "YF-4", "YF-5", "YF-8", "YF-9", "YF-11", "YF-12", "YF-14"],
+                "rules": ["Entry Per Institution : 1                         No.of participants: 01",
+                    "Time Duration: Maximum Time: 2 Hours and 30 Minutes.",
+                    "Sheet Size(22\" x 15\")",
+                    "The item will be conducted on the spot on the given topic/subject.",
+                    "Idea should be innovative and original.",
+                    "Participant will bring their own material required for the contest. Only the paper/sheet will be provided by the host institute.",
+                    "Judgement shall be based on the depiction of subject and innovative ideas"
+                ]
+            },
+            {
+                "name": "Clay Modeling",
+                "maxTime": "150",
+                "teams": ["YF-1", "YF-2", "YF-4", "YF-5", "YF-8", "YF-14"],
+                "rules": ["Entry Per Institution : 1                         No.of participants: 01",
+                    "Time Duration: Maximum Time: 2 Hours and 30 Minutes.",
+                    "The item will be conducted on the spot.",
+                    "Topic/Size and other specific rules shall be announced on the spot.",
+                    "Pure Clay and carving/modeling tools shall be arranged by the participant.",
+                    "Size of the item should not be less than 10 Inches in height with permissible variation of 5%",
+                    "Judgement shall be based on the neatness, depiction of subject and innvovative thoughts."
+                ]
+            },
+            {
+                "name": "Rangoli",
+                "maxTime": "150",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-8", "YF-9", "YF-10", "YF-11", "YF-12", "YF-14"],
+                "rules": ["Entry Per Institution : 1                         No.of participants: 01",
+                    "Time Duration: Maximum Time: 2 Hours and 30 Minutes.",
+                    "Size(2' x 2') to (4' x 4') 5% permissible variation",
+                    "Only one medium shall be used- poster colours or Flower petals or saw dust or Pulses or rice without pasting.",
+                    "The form of expression can be free hand, pictorial and descriptive.",
+                    "Participants Shall have to prepare a Rangoli with in the space provided by the Organizers.",
+                    "Topic/theme will be given on the spot by the Judges",
+                    "The use of Accessories like sieve, spoon and scale etc. are allowed.",
+                    "Judgement shall be based on the neatness, depiction of the overall subject and the use of colour combinations."
+                ]
+            },
+            {
+                "name": "On The Spot Photography",
+                "maxTime": "150",
+                "teams": ["YF-1", "YF-2", "YF-4", "YF-6", "YF-9", "YF-10", "YF-14"],
+                "rules": ["Entry Per Institution : 1                         No.of participants: 01",
+                    "Time Duration: Maximum Time: 2 Hours and 30 Minutes.",
+                    "Participants has to bring his/her own digital camera of not more than 12 Mega Pixels.",
+                    "The digital camera should have a memory card which will be formatted by the judges before the commencement of the content",
+                    "The participant has to capture 5 photographs on the theme announced by the spot by the Judges.",
+                    "No mixing, matching or morphing of photographs  will be permitted.",
+                    "Software such as Photoshop etc. for enhancing image not permitted.",
+                    "The organizers will have all rights for the use of these pictures as and when they deem fit.",
+                    "Digital Image shall be evaluated on the basis of :- <ol><li>Impact</li><li>Composition</li><li>Technical Quality</li><li>Suitability for the specific theme</li><li>Additional instructions will be announced on the spot</li> </ol>"
+                ]
+            },
+            {
+                "name": "Mehendi",
+                "maxTime": "150",
+                "teams": ["YF-1", "YF-2", "YF-3", "YF-4", "YF-5", "YF-6", "YF-8", "YF-9", "YF-10", "YF-11" , "YF-12", "YF-14", "YF-15"],
+                "rules": ["Entry Per Institution : 1                         No.of participants: 01",
+                    "Time Duration: Maximum Time: 2 Hours and 30 Minutes.",
+                    "No. of Student Accompanist: 1",
+                    "Item will be conducted on the spot on the given subject/idea.",
+                    "Additional instructions will be announced on the spot.",
+                    "Participants shall bring their own material. Only traditional Indian Motifs can be used, Arabian Mehndi, and the use of glitters is not allowed.",
+                    "Mehndi can be applied on both sides of one forearm(till Elbow). Judgement shall be based on neatness and intricacy of design."
+                ]
+            },
+            {
+                "name": "Installation",
+                "maxTime": "150",
+                "teams": ["YF-1", "YF-2", "YF-4", "YF-5", "YF-12", "YF-14"],
+                "rules": ["Entry Per Institution : 01                             No. of Participants: 4",
+                    "Time Duration : Maximum Time: 2 hours and 30 minutes",
+                    "This item pertains to arrangement of unity in diversity of elements inspired by material arrangements for which particular space will be provided.",
+                    "Item will be conducted on spot for which the topic will be mentioned.",
+                    "Material/ product should be brought by participants themselves."
+                ]
+            }
+        ]
+    }
+}

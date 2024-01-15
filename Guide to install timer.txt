@@ -1,0 +1,13 @@
+1. Open the folder in VS Code
+2. Run "npm i" command to install node modules.
+3. Run "npm outdated" command to check for outdated modules modules.
+4. If any outdated module is found then write the updated version in package.json file and run "npm i" again.
+5. Update the teams, rules, date, etc in "YFTData.json" file.
+6. Update the "index.html" and "timer.html" file for theme, date, etc.
+7. Connect the arduino lights system to the device.
+8. Run the web app using "npm run start" or "node index.js".
+9. If the web app is started successfully it will show port 8080, if not you have to debug the code to check for any errors.
+10. Once started successfully open your browser and search for localhost:8080 to open the web app.
+11. Check the connetion of lights by running the timer.
+12. If the lights have not been started the check for connection and click on the date part at the landing page of the web app to reset the connection.
+13. If everything above is correctly done your device is ready to use and now you should delete the "records.csv" file before starting of the Fest for a fresh record sheet.

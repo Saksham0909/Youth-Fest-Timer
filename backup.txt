@@ -1,0 +1,14 @@
+{
+                "name" : "Classical Inst. (Percussion)",
+                "minTime" : "08",
+                "maxTime" : "10",
+                "teams" : ["YF-1"],
+                "rules" : [
+                    "Entry Per Institution :01 &nbsp;&nbsp;No. of Participants: 01",
+                    "Time Duration: Minimum time: 08 minutes &nbsp;&nbsp;Maximum Time: 10 minutes",
+                    "Time for Stage/Instruments Setting : Up to 5 minutes",
+                    "Maximum number of accompanists is 02",
+                    "Item can be presented in either Hindustani or Carnatic style",
+                    "Judgment will be based on qualities like Taal, selection of Raag, Composition and general impression, etc"
+                ]
+            },

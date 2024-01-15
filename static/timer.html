@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MRSPTU - Youth Festival 2023</title>
+
+    <link rel="stylesheet" href="css/core.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/timer.css">
+
+    <style>
+        header {
+            background-color: rgba(78, 0, 38);
+        }
+
+        #bottom-line {
+            transform: translateY(-30px);
+        }
+
+        .yft-title {
+            padding-bottom: 6px;
+        }
+
+        .title-image {
+            width: 55px;
+            height: 55px;
+            transform: rotate(180deg);
+            position: absolute;
+
+        }
+
+        .title-image.left {
+            top: 5px;
+            left: 5px;
+        }
+
+        .title-image.right {
+            right: 5px;
+            top: 5px;
+            transform: rotate(270deg);
+        }
+
+        .participant-selector {
+            font-size: 20px;
+        }
+    </style>
+
+</head>
+
+<body class="noselect">
+    <header>
+        <div class="mrsptu-title">
+            <img class="title-image left" src="images/title-design.png" alt="">
+            Maharaja Ranjit Singh Punjab Technical University
+            <img class="title-image right" src="images/title-design.png" alt="">
+        </div>
+    </header>
+
+    <div class="inter-zonal-title section-header">
+        8th Inter Zonal Youth Festival
+    </div>
+
+    <div class="yft-title section-header">
+        Meri Mitti Mera Desh
+        <img id="bottom-line" src="images/line.png" width="660" height="70" alt="">
+    </div>
+
+    <div class="yft-date section-header">
+        <p>08<sup style="text-transform: lowercase;">th</sup> & 09<sup style="text-transform: lowercase;">th</sup>
+            NOVEMBER 2023</p>
+    </div>
+
+
+    <div class="section-header event-team-name">
+        <div class="event-name"></div>
+        <div class="team-name"></div>
+        <div class="participant-selector" >
+            <input id="radPc1" type="radio" name="pc" id="" style="width: 16px; height: 16px" checked>Participant-1</input>
+            <input id="radPc2" type="radio" name="pc" id="" style="margin-left: 32px;width: 16px; height: 16px">Participant-2</input>
+        </div>
+    </div>
+
+
+    <div class="timer-cont">
+        <div class="three-time-cont">
+            <div class="time-cont">
+                <div class="time-title">Minimum Time</div>
+                <div id="minTime" class="timer-text"></div>
+            </div>
+
+            <div id="elapsedTime" class="elapsed-time-cont">00:00</div>
+
+            <div class="time-cont">
+                <div class="time-title">Maximum Time</div>
+                <div id="maxTime" class="timer-text"></div>
+            </div>
+        </div>
+
+        <div class="three-btn-cont">
+            <div id="timerResetBtn" class="m-btn disabled"
+                onclick="!_isButtonDisabled('#timerResetBtn') && resetTimer();" data-disabled="true">RESET</div>
+
+            <div id="timerStartBtn" class="m-btn" onclick="!_isButtonDisabled('#timerStartBtn') && startTimer();"
+                data-disabled="false">START</div>
+
+            <div id="timerStopBtn" class="m-btn disabled" onclick="!_isButtonDisabled('#timerStopBtn') && stopTimer();"
+                data-disabled="true">END</div>
+        </div>
+    </div>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/arduino.js"></script>
+    <script src="js/timer.js"></script>
+</body>
+
+</html>

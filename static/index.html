@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MRSPTU - Youth Festival 2023</title>
+
+    <link rel="stylesheet" href="css/core.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+
+</head>
+
+<body class="noselect">
+    <header>
+        <div class="mrsptu-title">
+            Maharaja Ranjit Singh Punjab Technical University
+        </div>
+        <div class="divider"></div>
+        <div class="yft-title">
+            8th Inter Zonal Youth Festival (2023)
+        </div>
+    </header>
+
+    <section class="page-heading">
+        EVENTS
+    </section>
+
+    <div class="content">
+        <div class="events-categories">
+            <ul></ul>
+        </div>
+
+        <div class="events-list">
+            <ul></ul>
+        </div>
+
+        <div class="teams-list" style="display: none;">
+            <div class="event-name"></div>
+            <div class="rules-btn" data-bs-toggle="modal" data-bs-target="#rulesModal" onclick="onRulesButtonClickedHandler();">Rules</div>
+            <div class="time-cont">
+                <div class="time-title">Minimum Time : </div>
+                <div id="minTime" class="time">
+                    --:--
+                </div>
+            </div>
+
+            <div class="time-cont">
+                <div class="time-title">Maximum Time : </div>
+                <div id="maxTime" class="time">
+                    --:--
+                </div>
+            </div>
+
+            <ul></ul>
+        </div>
+    </div>
+
+    <!-- RULES MODAL -->
+    <div class="modal fade" id="rulesModal" tabindex="-1">
+        <div class="modal-dialog modal-fullscreen">
+          <div class="modal-content">
+            <div class="modal-header"  style="color: white; background-color: rgb(255, 72, 0); box-shadow: 0px 1px 6px 1px rgb(179, 179, 179);">
+              <h5 class="modal-title" style="font-size: 32px;" id="rulesModalTitle"></h5>
+              <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" style="font-weight: bold;">
+                <ul id="rulesList"></ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    <script src="js/bootstrap.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/index.js"></script>
+</body>
+
+</html>

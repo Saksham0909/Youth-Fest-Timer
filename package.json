@@ -12,7 +12,7 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "csv-writer": "^1.6.0",
-    "express": "^4.18.2",
+    "express": "^4.19.1",
     "node-dev": "^8.0.0",
     "serialport": "12.0.0"
   }
